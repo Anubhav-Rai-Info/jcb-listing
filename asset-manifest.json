@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jcb-listing/static/css/main.e6c13ad2.css",
+    "main.js": "/jcb-listing/static/js/main.7ba2247c.js",
+    "static/js/787.9c7b2086.chunk.js": "/jcb-listing/static/js/787.9c7b2086.chunk.js",
+    "index.html": "/jcb-listing/index.html",
+    "main.e6c13ad2.css.map": "/jcb-listing/static/css/main.e6c13ad2.css.map",
+    "main.7ba2247c.js.map": "/jcb-listing/static/js/main.7ba2247c.js.map",
+    "787.9c7b2086.chunk.js.map": "/jcb-listing/static/js/787.9c7b2086.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7ba2247c.js"
+  ]
+}
